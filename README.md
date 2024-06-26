@@ -5,7 +5,6 @@
 - 📫 How to reach me? My gmail : Hoshino.Cola@gmail.com
 - 😄 Pronouns: who knows😉
 - ⚡ Fun fact: need not to know🥹
-- 😅 设计与制造你的🐴什么时候似啊😅 nmd现在考试状态真不好🫠
 
 <!---
 EdogawaAi/EdogawaAi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
