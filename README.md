@@ -12,7 +12,7 @@
  
  🔭 I’m currently **a student**
  
- 🌱 I’m currently learning **computer network, maybe tiger-compiler, cse, algorithm, k8s, os, full-stack...**
+ 🌱 I’m currently learning **computer network, tiger-compiler, cse, algorithm, maybe k8s, os, full-stack...**
 
 💬 Ask me about **C/C++, algorithm, stata, rust... or anything [here](https://github.com/EdogawaAi/EdogawaAi/issues)**
 
