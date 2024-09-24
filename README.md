@@ -16,6 +16,10 @@
 
 ⛅ What I want to learn later : **os, k8s, full-stack, cloud, computer network, db**
 
+👯 I’m looking to collaborate on **open source projects**
+
+~~😆Java生态？🐕都不学😆🫵🪞🤡~~
+
 💬 Ask me about **C/C++, algorithm, stata, rust... or anything [here](https://github.com/EdogawaAi/EdogawaAi/issues)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
