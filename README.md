@@ -12,8 +12,9 @@
  
  🔭 I’m currently **a student**
  
- 🌱 I’m currently learning **computer network, tiger-compiler, cse, algorithm, maybe k8s, os, full-stack...**
- ~~全栈？java？🐕都不学😆~~
+ 🌱 What I'm learning currently : **tiger-compiler, cse, algorithm**
+
+⛅ What I want to learn later : **os, k8s, full-stack, cloud, computer network, db**
 
 💬 Ask me about **C/C++, algorithm, stata, rust... or anything [here](https://github.com/EdogawaAi/EdogawaAi/issues)**
 
