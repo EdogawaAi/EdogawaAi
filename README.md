@@ -18,7 +18,7 @@
 
 👯 I’m looking to collaborate on **open source projects**
 
-~~😆Java生态？🐕都不学😆🫵🪞🤡~~
+
 
 💬 Ask me about **C/C++, algorithm, stata, rust... or anything [here](https://github.com/EdogawaAi/EdogawaAi/issues)**
 
@@ -94,4 +94,6 @@
 
 <h1 align = "center"> 
 写在最后：求求你们不要取关我😭我什么都会做的😭
+
+二编：当一回男菩萨😋这把compiler-2024的lab5-part0先public两天，想抄就抄吧(
 </h1>
