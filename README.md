@@ -10,14 +10,16 @@
 
 <div align="center">
  
- 🔭 I’m currently **a student**
+ 🔭 I’m currently a member of **@SJTUG,@SJTU-SE**
  
  🌱 What I'm learning currently : **tiger-compiler, cse, algorithm, database**
 
-⛅ What I want to learn later : **os, k8s, full-stack, cloud, computer network**
+⛅ What I want to learn later : **os, k8s, full-stack develop, cloud, DevOps**
 
 👯 I’m looking to collaborate on **open source projects**
 
+
+👉[here](https://leetcode.cn/u/hoshino_cola/) are some of my **leetcode** problems solutions
 
 
 💬 Ask me about **C/C++, algorithm, stata, rust... or anything [here](https://github.com/EdogawaAi/EdogawaAi/issues)**
@@ -92,7 +94,3 @@
 </h3>
 
 <br/>
-
-<h1 align = "center"> 
-写在最后：求求你们不要取关我😭我什么都会做的😭
-</h1>
