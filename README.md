@@ -12,9 +12,9 @@
  
  🔭 I’m currently **a student**
  
- 🌱 What I'm learning currently : **tiger-compiler, cse, algorithm**
+ 🌱 What I'm learning currently : **tiger-compiler, cse, algorithm, database**
 
-⛅ What I want to learn later : **os, k8s, full-stack, cloud, computer network, db**
+⛅ What I want to learn later : **os, k8s, full-stack, cloud, computer network**
 
 👯 I’m looking to collaborate on **open source projects**
 
@@ -44,8 +44,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cmake,rust,python,gitlab,golang,docker,kubernetes" />
-    <img src="https://skillicons.dev/icons?i=markdown,latex,vscode,clion,obsidian,anaconda,github,apple" /><br>
+    <img src="https://skillicons.dev/icons?i=c,cpp,cmake,rust,golang,java,docker,kubernetes" />
+    <img src="https://skillicons.dev/icons?i=maven,latex,vscode,clion,idea,github,gitlab,linux" /><br>
+    <img src="https://skillicons.dev/icons?i=arch,ubuntu,sqlite,mysql,python,tauri,react,anaconda" /><br>
 </div>
 
 
