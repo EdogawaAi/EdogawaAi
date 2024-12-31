@@ -10,16 +10,16 @@
 
 <div align="center">
  
- 🔭 I’m currently a member of **@SJTUG,@SJTU-SE**
+ 🔭 I’m currently a member of **[@SJTUG](https://github.com/sjtug)**, **[@SJTU-SE](https://github.com/SJTU-SE)**
  
  🌱 What I'm learning currently : **tiger-compiler, cse, algorithm, database**
 
-⛅ What I want to learn later : **os, k8s, full-stack develop, cloud, DevOps**
+⛅ What I want to learn later : **cloudos, full-stack develop, codeforces**
 
 👯 I’m looking to collaborate on **open source projects**
 
 
-👉[here](https://leetcode.cn/u/hoshino_cola/) are some of my **leetcode** problems solutions
+👉Click [here](https://leetcode.cn/u/hoshino_cola/) to get some of my **leetcode** problems solutions
 
 
 💬 Ask me about **C/C++, algorithm, stata, rust... or anything [here](https://github.com/EdogawaAi/EdogawaAi/issues)**
