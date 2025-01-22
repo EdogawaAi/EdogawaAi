@@ -12,9 +12,9 @@
  
  🔭 I’m currently a member of **[@SJTUG](https://github.com/sjtug)**, **[@SJTU-SE](https://github.com/SJTU-SE)**
  
- 🌱 What I'm learning currently : **tiger-compiler, cse, algorithm, database**
+ 🌱 What I'm learning currently : **algorithm, full-stack, cloudos**
 
-⛅ What I want to learn later : **cloudos, full-stack develop, codeforces**
+🤕 I feel anxious about my promotion
 
 👯 I’m looking to collaborate on **open source projects**
 
