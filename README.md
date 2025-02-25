@@ -12,17 +12,17 @@
  
  🔭 I’m currently a member of **[@SJTUG](https://github.com/sjtug)**, **[@SJTU-SE](https://github.com/SJTU-SE)**
  
- 🌱 What I'm learning currently : **algorithm, full-stack, cloudos**
+ 🌱 What I'm learning currently : **algorithm, full-stack, cloudos, os**
 
 🤕 I feel anxious about my promotion
 
 👯 I’m looking to collaborate on **open source projects**
 
 
-👉Click [here](https://leetcode.cn/u/hoshino_cola/) to get some of my **leetcode** problems solutions
+👉Click [here](https://leetcode.cn/u/hoshino-cola/) to get some of my **leetcode** problems solutions
 
 
-💬 Ask me about **C/C++, algorithm, stata, rust... or anything [here](https://github.com/EdogawaAi/EdogawaAi/issues)**
+💬 Ask me about **C++, algorithm, java, python, rust, sql... or anything [here](https://github.com/EdogawaAi/EdogawaAi/issues)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
