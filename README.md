@@ -22,7 +22,7 @@
 👉Click [here](https://leetcode.cn/u/hoshino-cola/) to get some of my **leetcode** problems solutions
 
 
-💬 Ask me about **C++, algorithm, java, python, rust, sql... or anything [here](https://github.com/EdogawaAi/EdogawaAi/issues)**
+💬 Ask me about **C++, java, python,go, rust, sql... or anything [here](https://github.com/EdogawaAi/EdogawaAi/issues)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
