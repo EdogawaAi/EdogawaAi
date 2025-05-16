@@ -10,11 +10,11 @@
 
 <div align="center">
  
- 🔭 I’m currently a member of **[@SJTUG](https://github.com/sjtug)**, **[@SJTU-SE](https://github.com/SJTU-SE)**
+ 🔭 I’m currently a member of **[@SJTUG](https://github.com/sjtug)**, **[@SJTU-SE](https://github.com/SJTU-SE)**, **[@SJTU-Geek](https://geek.sjtu.edu.cn/)**
  
  🌱 What I'm learning currently : **algorithm, full-stack, cloudos, os**
 
-🤕 I feel anxious about my promotion
+🤕 I'm working on getting admitted to a graduate program. 
 
 👯 I’m looking to collaborate on **open source projects**
 
